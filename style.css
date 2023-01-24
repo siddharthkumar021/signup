@@ -35,7 +35,10 @@
 }
 #Username{
     padding: 12px;
-    border-radius: 12px;
+    border-radius: 12px; 
+    /* 
+        border radius add border to any field
+    */
 }
 #Username:hover{
     border-color: yellow;
