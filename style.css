@@ -1,0 +1,80 @@
+.html{
+    font-size: 10px;
+    font-weight: sans-serif;
+}
+
+.Signup-font{
+    display:grid;
+    max-width: 100rem;
+    margin:0 auto;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: 4rem;
+    gap:2rem 4rem;
+}
+
+#username,#email,#signup-submit{
+    grid-column-start: span 2;
+
+}
+ .form > input{
+    border: 1px solid   
+ }
+ 
+ #Signup{
+    position: absolute;
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    padding: 12px;
+    border-radius: 6px;
+    margin:12px;
+}
+#Signup:hover{
+ color :yellow
+}
+#Username{
+    padding: 12px;
+    border-radius: 12px;
+}
+#Username:hover{
+    border-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
